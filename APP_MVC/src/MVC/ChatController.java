@@ -1,3 +1,4 @@
+/* This is the Controller */
 package MVC;
 public class ChatController implements ChatObserver {
     private ChatModel model;
